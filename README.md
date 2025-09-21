@@ -16,9 +16,6 @@ The Cozy Nook website is a cozy, inviting multipage site designed to showcase a 
 - Warm, cozy style with inviting imagery  
 - Navigation menu with smooth toggle for smaller screens  
 - Informative pages: Home, About (with mission, vision, purpose), Menu, Gallery, Contact  
-- Contact form integrated with Formspree for easy message sending  
-- Inline form validation and user-friendly feedback  
-- Google reCAPTCHA v2 added for spam protection  
 
 ---
 
@@ -27,8 +24,6 @@ The Cozy Nook website is a cozy, inviting multipage site designed to showcase a 
 - *HTML5* for semantic structure  
 - *CSS3* with responsive design  
 - *JavaScript* for interactivity (menu toggle, form validation, form submission feedback)  
-- *Formspree* for contact form backend without server  
-- *Google reCAPTCHA* for spam protection  
 
 ---
 
@@ -40,8 +35,7 @@ The Cozy Nook website is a cozy, inviting multipage site designed to showcase a 
      
 2. Open index.html file in a browser to view pages locally.  
 3. Customize css/styles.css and js/scripts.js as needed.  
-4. Replace Formspree form ID and Google reCAPTCHA site key with your own in contact.html.  
-5. Deploy on GitHub Pages, Netlify, or your favorite host!
+4. Deploy on GitHub Pages, Netlify, or your favorite host!
 
 ---
 
