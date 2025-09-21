@@ -38,7 +38,7 @@ The Cozy Nook website is a cozy, inviting multipage site designed to showcase a 
    bash
    git clone https://github.com/yourusername/cozy-nook.git
      
-2. Open any .html file in a browser to view pages locally.  
+2. Open index.html file in a browser to view pages locally.  
 3. Customize css/styles.css and js/scripts.js as needed.  
 4. Replace Formspree form ID and Google reCAPTCHA site key with your own in contact.html.  
 5. Deploy on GitHub Pages, Netlify, or your favorite host!
@@ -77,5 +77,3 @@ Designed and built with ❤ by Doreen!
 This project is open source and free to use.  
 
 ---
-
-If you want, I can help you customize it more or add screenshots! 😄🌸
