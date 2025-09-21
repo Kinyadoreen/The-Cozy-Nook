@@ -68,7 +68,7 @@ cozy-nook/
 
 ## Credits  
 
-Designed and built with ❤ by Doreen and Memozy!  
+Designed and built with ❤ by Doreen!  
 
 ---
 
